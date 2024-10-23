@@ -2,11 +2,7 @@
 <h3 align="center">A guy that loves coding.</h3>
 
 - 🔭 I’m currently studying **Software Development**
-
 - 🌱 I’m currently learning **java, c# and html.**
-
-- 👨‍💻 All of my projects are available at [talhademir.com](talhademir.com)
-
 - 📫 How to reach me **talhacomert28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
