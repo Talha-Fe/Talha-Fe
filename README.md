@@ -4,7 +4,17 @@
 - 🔭 I’m currently studying **Software Development**
 - 🌱 I’m currently learning **java, c# and html.**
 - 📫 How to reach me **talhacomert28@gmail.com**
-- 
+
+             ／＞　 フ
+            | 　_　_| 
+          ／` ミ＿xノ 
+         /　　　　 |
+        /　 ヽ　　 ﾉ
+        │　　|　|　|
+   ／￣|　　 |　|　|
+   (￣ ヽ ＿_ヽ_)__)
+    ＼二)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tlhiron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tlhiron" height="20" width="30" /></a>
