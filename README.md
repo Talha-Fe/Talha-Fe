@@ -5,14 +5,6 @@
 - 🌱 I’m currently learning **java, c# and html.**
 - 📫 How to reach me **talhacomert28@gmail.com**
   
-  npm install --save ascii-art-webcomponents
-
-
-    <ascii-art-font
-		font="doom"
-	>Some Text</ascii-art-font>
-
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tlhiron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tlhiron" height="20" width="30" /></a>
