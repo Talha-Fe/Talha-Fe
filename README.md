@@ -1,16 +1,17 @@
-    npm install --save ascii-art
-
 <h1 align="center">Hi 👋, I'm Talha Demir</h1>
 <h3 align="center">A guy that loves coding.</h3>
 
 - 🔭 I’m currently studying **Software Development**
 - 🌱 I’m currently learning **java, c# and html.**
 - 📫 How to reach me **talhacomert28@gmail.com**
+  
+  npm install --save ascii-art-webcomponents
 
-    art.font("Some Text", 'doom', (err, rendered)=>{
-        //if err, err is the error that occured
-        //if !err rendered is the ascii
-    });
+
+    <ascii-art-font
+		font="doom"
+	>Some Text</ascii-art-font>
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
