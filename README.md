@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Talha Demir</h1>
+<h1 align="center">Hi, I'm Talha Demir</h1>
 <h3 align="center">A guy that loves coding.</h3>
 
-- 🔭 I’m currently studying **Software Development**
-- 🌱 I’m currently learning **java, c# and html.**
-- 📫 How to reach me **talhacomert28@gmail.com**
+-  My LeetCode ---> https://leetcode.com/u/Talha-Fe/
+-  How to reach me **talhacomert28@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
